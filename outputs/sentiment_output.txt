@@ -1,0 +1,12 @@
+Text: I absolutely loved this internship experience.
+Sentiment: POSITIVE, Confidence: 0.9999
+--------------------------------------------------
+Text: The product quality was very poor and disappointing.
+Sentiment: NEGATIVE, Confidence: 0.9998
+--------------------------------------------------
+Text: Learning transformers was challenging but rewarding.
+Sentiment: POSITIVE, Confidence: 0.9998
+--------------------------------------------------
+Text: I would not recommend this service to anyone.
+Sentiment: NEGATIVE, Confidence: 0.9383
+--------------------------------------------------
